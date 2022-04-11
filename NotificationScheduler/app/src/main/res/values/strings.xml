@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="job_service">Job Service</string>
+    <string name="your_job_ran_to_completion">Your Job ran to completion!</string>
+    <string name="network_type_required">Network Type Required:</string>
+</resources>
